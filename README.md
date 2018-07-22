@@ -1,14 +1,14 @@
 In this project I created a wireframe that gets a certain rectangular input and returns a 3D map according to the values in the rectangle
 
-ARROW KEYS:
+FEATURES
 
-left -> to move image left,
+left in arrow keys -> to move image left,
 
-right -> to move image right,
+right in arrow keys -> to move image right,
 
-up -> to move image up,
+up in arrow keys -> to move image up,
 
-down -> to move image down,
+down in arrow keys -> to move image down,
 
 
 plus sign in number pad -> shifts the upper levels in the input up,
