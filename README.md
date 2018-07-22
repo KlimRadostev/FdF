@@ -1,7 +1,5 @@
 # FdF @ 42
 
-![screenshot](image.png)
-
 A simple 3D height-map renderer. You can rotate models, color is defined by
 relative height in the map. More features planned!
 
@@ -33,3 +31,8 @@ both to move around.
 
 ## License
 This project is licensed under the GNU General Public License 3.
+
+![screenshot](images/landscape.png)
+![screenshot](images/42_at_up_level.png)
+![screenshot](images/image.png)
+![screenshot](images/42_at_low_level.png)
