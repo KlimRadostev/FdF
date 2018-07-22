@@ -6,8 +6,8 @@ right -> to move image right,
 up -> to move image up,
 down -> to move image down,
 
-+ sign -> shifts the upper levels in the input up,
-- sign -> shifts the upper levels in the input down,
+plus sign in number pad -> shifts the upper levels in the input up,
+minus sign in number pad -> shifts the upper levels in the input down,
 
-0 -> zooms in the image,
-1 -> zooms out of the image,
+0 in number pad -> zooms in the image,
+1 in number pad -> zooms out of the image,
