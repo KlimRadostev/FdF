@@ -1,6 +1,6 @@
 # FdF @ 42
 
-![screenshot](github.com/KlimRadostev/FdF/blob/master/image.png)
+![screenshot](image.png)
 
 A simple 3D height-map renderer. You can rotate models, color is defined by
 relative height in the map. More features planned!
