@@ -1,7 +1,7 @@
 # FdF @ 42
 
 A simple 3D height-map renderer. You can rotate models, color is defined by
-relative height in the map. More features planned!
+relative height in the map.
 
 ## Features
 * Zoom-in Zoom-out (with 0 and 1 in key pad)
